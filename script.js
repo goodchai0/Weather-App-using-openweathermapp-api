@@ -12,7 +12,7 @@ const days=['Sunday','Monday','Tuesday','Wednesday','Thusday','Friday'];
 
 const months=['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
 
-const API_KEY='5605e98c3004de32ad396a0046ac7e04';
+const API_KEY='560046ac7e04';
 
 
 setInterval(()=>{
